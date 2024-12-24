@@ -1,10 +1,10 @@
 Weather Prediction with Random Forest Classifier
 
-Description
+Description:
 
 This project uses machine learning to predict weather conditions (such as "Sunny", "Rainy", or "Cloudy") based on features like temperature, humidity, and wind speed. The model is built using a Random Forest Classifier and data preprocessing steps, including Label Encoding for categorical variables and Standard Scaling for numerical features.
 
-Features
+Features:
 
 Data Preprocessing:
 
